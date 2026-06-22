@@ -1,1 +1,4 @@
 # Finance-tracker-
+We will build a next-generation personal finance tracker application designed to impress recruiters. It combines gorgeous modern aesthetics (dark mode, glassmorphism, fluid SVG animations, and micro-interactions) with genuine AI capabilities (Gemini API integration, receipt scanning simulation, smart budgeting projections, and an interactive AI financial coach).
+
+The application will run out-of-the-box using a high-fidelity local AI rule-based advisor, but will unlock a Full AI Mode (using the real Gemini API) when the user inputs their Gemini API key in the settings panel. This ensures it is immediately interactive while offering a real-world integration of LLMs.
